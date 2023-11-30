@@ -7,7 +7,7 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_ID = int(getenv("6910477574"))
+OWNER_ID = int(getenv("6852847382"))
 
 MONGO_DB_URI = getenv("MONGO_DB_URI")
 MUST_JOIN = getenv("MUST_JOIN", None)
